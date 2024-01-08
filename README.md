@@ -1,1 +1,0 @@
-# furiouscollections.rf.gd
