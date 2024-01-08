@@ -1,2 +1,1 @@
-# xff
-sds
+# furiouscollections.rf.gd
